@@ -1,2 +1,2 @@
 # dotfiles
-Rudy dotfiles.
+Vim, NeoVim, Tmux, and Emacs dotfile.
