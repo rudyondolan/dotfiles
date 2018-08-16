@@ -1,2 +1,3 @@
 # dotfiles
-Vim, NeoVim, Tmux, and Emacs dotfile.
+
+These files are always used by me every day at work. 🙂
